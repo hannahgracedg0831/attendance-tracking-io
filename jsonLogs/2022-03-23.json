@@ -1,0 +1,372 @@
+[
+    {
+        "12345": {
+            "TimeIn": "09:00:08am",
+            "GuardIn": "12345",
+            "TimeOut": "03:20:06am",
+            "GuardOut": "12345",
+            "Date": "2022-03-23",
+            "type": "Guard"
+        }
+    },
+    {
+        "GT18-100": {
+            "TimeIn": "11:36:03am",
+            "GuardIn": "12345",
+            "TimeOut": "12:24:37pm",
+            "GuardOut": "12345",
+            "Date": "2022-03-22",
+            "type": "student"
+        }
+    },
+    {
+        "GT18-100": {
+            "TimeIn": "11:36:03am",
+            "GuardIn": "12345",
+            "TimeOut": "",
+            "GuardOut": "",
+            "Date": "2022-03-22",
+            "type": "student"
+        }
+    },
+    {
+        "GT18-00189": {
+            "TimeIn": "12:11:05pm",
+            "GuardIn": "12345",
+            "TimeOut": "",
+            "GuardOut": "",
+            "Date": "2022-03-22",
+            "type": "student"
+        }
+    },
+    {
+        "12345": {
+            "TimeIn": "10:20:14am",
+            "GuardIn": "12345",
+            "TimeOut": "11:58:48am",
+            "GuardOut": "12345",
+            "Date": "2022-03-23",
+            "type": "Guard"
+        }
+    },
+    {
+        "GT18-01": {
+            "TimeIn": "10:22:06am",
+            "GuardIn": "12345",
+            "TimeOut": "10:59:31am",
+            "GuardOut": "12345",
+            "Date": "2022-03-23",
+            "type": "student"
+        }
+    },
+    {
+        "929666277": {
+            "TimeIn": "10:59:08am",
+            "GuardIn": "12345",
+            "TimeOut": "",
+            "GuardOut": "",
+            "Date": "2022-03-23",
+            "type": "visitor"
+        }
+    },
+    {
+        "GT18-01": {
+            "TimeIn": "10:59:35am",
+            "GuardIn": "12345",
+            "TimeOut": "10:59:48am",
+            "GuardOut": "12345",
+            "Date": "2022-03-23",
+            "type": "student"
+        }
+    },
+    {
+        "GT18-01": {
+            "TimeIn": "10:59:52am",
+            "GuardIn": "12345",
+            "TimeOut": "11:04:44am",
+            "GuardOut": "12345",
+            "Date": "2022-03-23",
+            "type": "student"
+        }
+    },
+    {
+        "GT18-01": {
+            "TimeIn": "11:04:51am",
+            "GuardIn": "12345",
+            "TimeOut": "11:07:47am",
+            "GuardOut": "12345",
+            "Date": "2022-03-23",
+            "type": "student"
+        }
+    },
+    {
+        "GT18-01": {
+            "TimeIn": "11:08:25am",
+            "GuardIn": "12345",
+            "TimeOut": "11:08:56am",
+            "GuardOut": "12345",
+            "Date": "2022-03-23",
+            "type": "student"
+        }
+    },
+    {
+        "GT18-01": {
+            "TimeIn": "11:09:03am",
+            "GuardIn": "12345",
+            "TimeOut": "11:14:14am",
+            "GuardOut": "12345",
+            "Date": "2022-03-23",
+            "type": "student"
+        }
+    },
+    {
+        "GT18-01": {
+            "TimeIn": "11:14:21am",
+            "GuardIn": "12345",
+            "TimeOut": "11:15:05am",
+            "GuardOut": "12345",
+            "Date": "2022-03-23",
+            "type": "student"
+        }
+    },
+    {
+        "GT18-01": {
+            "TimeIn": "11:15:09am",
+            "GuardIn": "12345",
+            "TimeOut": "11:15:22am",
+            "GuardOut": "12345",
+            "Date": "2022-03-23",
+            "type": "student"
+        }
+    },
+    {
+        "GT18-01": {
+            "TimeIn": "11:15:29am",
+            "GuardIn": "12345",
+            "TimeOut": "11:19:57am",
+            "GuardOut": "12345",
+            "Date": "2022-03-23",
+            "type": "student"
+        }
+    },
+    {
+        "GT18-01": {
+            "TimeIn": "11:20:02am",
+            "GuardIn": "12345",
+            "TimeOut": "11:20:23am",
+            "GuardOut": "12345",
+            "Date": "2022-03-23",
+            "type": "student"
+        }
+    },
+    {
+        "GT18-01": {
+            "TimeIn": "11:20:27am",
+            "GuardIn": "12345",
+            "TimeOut": "11:22:15am",
+            "GuardOut": "12345",
+            "Date": "2022-03-23",
+            "type": "student"
+        }
+    },
+    {
+        "GT18-01": {
+            "TimeIn": "11:22:19am",
+            "GuardIn": "12345",
+            "TimeOut": "11:24:24am",
+            "GuardOut": "12345",
+            "Date": "2022-03-23",
+            "type": "student"
+        }
+    },
+    {
+        "GT18-01": {
+            "TimeIn": "11:24:45am",
+            "GuardIn": "12345",
+            "TimeOut": "11:26:57am",
+            "GuardOut": "12345",
+            "Date": "2022-03-23",
+            "type": "student"
+        }
+    },
+    {
+        "GT18-01": {
+            "TimeIn": "11:27:03am",
+            "GuardIn": "12345",
+            "TimeOut": "11:27:22am",
+            "GuardOut": "12345",
+            "Date": "2022-03-23",
+            "type": "student"
+        }
+    },
+    {
+        "GT18-01": {
+            "TimeIn": "11:27:50am",
+            "GuardIn": "12345",
+            "TimeOut": "11:28:18am",
+            "GuardOut": "12345",
+            "Date": "2022-03-23",
+            "type": "student"
+        }
+    },
+    {
+        "GT18-01": {
+            "TimeIn": "11:28:29am",
+            "GuardIn": "12345",
+            "TimeOut": "11:34:46am",
+            "GuardOut": "12345",
+            "Date": "2022-03-23",
+            "type": "student"
+        }
+    },
+    {
+        "GT18-01": {
+            "TimeIn": "11:34:50am",
+            "GuardIn": "12345",
+            "TimeOut": "11:35:05am",
+            "GuardOut": "12345",
+            "Date": "2022-03-23",
+            "type": "student"
+        }
+    },
+    {
+        "GT18-01": {
+            "TimeIn": "11:35:09am",
+            "GuardIn": "12345",
+            "TimeOut": "11:35:42am",
+            "GuardOut": "12345",
+            "Date": "2022-03-23",
+            "type": "student"
+        }
+    },
+    {
+        "GT18-01": {
+            "TimeIn": "11:35:45am",
+            "GuardIn": "12345",
+            "TimeOut": "11:36:21am",
+            "GuardOut": "12345",
+            "Date": "2022-03-23",
+            "type": "student"
+        }
+    },
+    {
+        "GT18-01": {
+            "TimeIn": "11:36:24am",
+            "GuardIn": "12345",
+            "TimeOut": "11:36:29am",
+            "GuardOut": "12345",
+            "Date": "2022-03-23",
+            "type": "student"
+        }
+    },
+    {
+        "GT18-01": {
+            "TimeIn": "11:36:33am",
+            "GuardIn": "12345",
+            "TimeOut": "11:36:54am",
+            "GuardOut": "12345",
+            "Date": "2022-03-23",
+            "type": "student"
+        }
+    },
+    {
+        "GT18-01": {
+            "TimeIn": "11:36:59am",
+            "GuardIn": "12345",
+            "TimeOut": "11:45:21am",
+            "GuardOut": "12345",
+            "Date": "2022-03-23",
+            "type": "student"
+        }
+    },
+    {
+        "GT18-01": {
+            "TimeIn": "11:45:25am",
+            "GuardIn": "12345",
+            "TimeOut": "11:45:35am",
+            "GuardOut": "12345",
+            "Date": "2022-03-23",
+            "type": "student"
+        }
+    },
+    {
+        "GT18-01": {
+            "TimeIn": "11:45:38am",
+            "GuardIn": "12345",
+            "TimeOut": "11:46:08am",
+            "GuardOut": "12345",
+            "Date": "2022-03-23",
+            "type": "student"
+        }
+    },
+    {
+        "GT18-01": {
+            "TimeIn": "11:46:12am",
+            "GuardIn": "12345",
+            "TimeOut": "11:46:19am",
+            "GuardOut": "12345",
+            "Date": "2022-03-23",
+            "type": "student"
+        }
+    },
+    {
+        "GT18-01": {
+            "TimeIn": "11:47:02am",
+            "GuardIn": "12345",
+            "TimeOut": "11:51:07am",
+            "GuardOut": "12345",
+            "Date": "2022-03-23",
+            "type": "student"
+        }
+    },
+    {
+        "GT18-01": {
+            "TimeIn": "11:52:05am",
+            "GuardIn": "12345",
+            "TimeOut": "11:52:09am",
+            "GuardOut": "12345",
+            "Date": "2022-03-23",
+            "type": "student"
+        }
+    },
+    {
+        "12345": {
+            "TimeIn": "11:58:53am",
+            "GuardIn": "12345",
+            "TimeOut": "06:43:57am",
+            "GuardOut": "12345",
+            "Date": "2022-03-23",
+            "type": "staff"
+        }
+    },
+    {
+        "12345": {
+            "TimeIn": "01:54:43pm",
+            "GuardIn": "12345",
+            "TimeOut": "06:54:45am",
+            "GuardOut": "12345",
+            "Date": "2022-03-23",
+            "type": "Guard"
+        }
+    },
+    {
+        "12345": {
+            "TimeIn": "02:03:21pm",
+            "GuardIn": "12345",
+            "TimeOut": "07:03:25am",
+            "GuardOut": "12345",
+            "Date": "2022-03-23",
+            "type": "Guard"
+        }
+    },
+    {
+        "12345": {
+            "TimeIn": "02:42:19pm",
+            "GuardIn": "12345",
+            "TimeOut": "",
+            "GuardOut": "",
+            "Date": "2022-03-23",
+            "type": "Guard"
+        }
+    }
+]

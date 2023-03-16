@@ -1,0 +1,12 @@
+[
+    {
+        "12345": {
+            "TimeIn": "09:14:44am",
+            "GuardIn": "12345",
+            "TimeOut": "",
+            "GuardOut": "",
+            "Date": "2022-04-18",
+            "type": "Guard"
+        }
+    }
+]

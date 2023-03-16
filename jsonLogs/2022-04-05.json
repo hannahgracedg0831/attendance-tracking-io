@@ -1,0 +1,32 @@
+[
+    {
+        "12345": {
+            "TimeIn": "08:49:58am",
+            "GuardIn": "12345",
+            "TimeOut": "02:36:19pm",
+            "GuardOut": "12345",
+            "Date": "2022-03-28",
+            "type": "Guard"
+        }
+    },
+    {
+        "12345": {
+            "TimeIn": "08:02:37pm",
+            "GuardIn": "12345",
+            "TimeOut": "02:36:19pm",
+            "GuardOut": "12345",
+            "Date": "2022-04-05",
+            "type": "Guard"
+        }
+    },
+    {
+        "12345": {
+            "TimeIn": "09:12:25pm",
+            "GuardIn": "12345",
+            "TimeOut": "",
+            "GuardOut": "",
+            "Date": "2022-04-05",
+            "type": "Guard"
+        }
+    }
+]

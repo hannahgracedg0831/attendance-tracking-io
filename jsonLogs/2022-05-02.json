@@ -1,0 +1,22 @@
+[
+    {
+        "12345": {
+            "TimeIn": "10:58:22am",
+            "GuardIn": "12345",
+            "TimeOut": "05:13:29am",
+            "GuardOut": "12345",
+            "Date": "2022-05-02",
+            "type": "Guard"
+        }
+    },
+    {
+        "GT18-0021": {
+            "TimeIn": "11:12:54am",
+            "GuardIn": "12345",
+            "TimeOut": "",
+            "GuardOut": "",
+            "Date": "2022-05-02",
+            "type": "student"
+        }
+    }
+]

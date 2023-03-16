@@ -1,0 +1,52 @@
+[
+    {
+        "12345": {
+            "TimeIn": "09:31:48am",
+            "GuardIn": "12345",
+            "TimeOut": "03:32:50am",
+            "GuardOut": "12345",
+            "Date": "2022-04-19",
+            "type": "Guard"
+        }
+    },
+    {
+        "12345": {
+            "TimeIn": "09:52:47am",
+            "GuardIn": "12345",
+            "TimeOut": "04:01:25am",
+            "GuardOut": "12345",
+            "Date": "2022-04-29",
+            "type": "Guard"
+        }
+    },
+    {
+        "340237917": {
+            "TimeIn": "09:54:27am",
+            "GuardIn": "12345",
+            "TimeOut": "",
+            "GuardOut": "",
+            "Date": "2022-04-29",
+            "type": "visitor"
+        }
+    },
+    {
+        "GT18-00120": {
+            "TimeIn": "09:55:47am",
+            "GuardIn": "12345",
+            "TimeOut": "",
+            "GuardOut": "",
+            "Date": "2022-04-29",
+            "type": "student"
+        }
+    },
+    {
+        "1552321418": {
+            "TimeIn": "09:58:14am",
+            "GuardIn": "12345",
+            "TimeOut": "",
+            "GuardOut": "",
+            "Date": "2022-04-29",
+            "type": "visitor"
+        }
+    }
+]

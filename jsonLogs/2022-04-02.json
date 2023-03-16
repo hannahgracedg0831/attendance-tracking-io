@@ -1,0 +1,82 @@
+[
+    {
+        "12345": {
+            "TimeIn": "08:49:58am",
+            "GuardIn": "12345",
+            "TimeOut": "08:29:15am",
+            "GuardOut": "12345",
+            "Date": "2022-03-28",
+            "type": "Guard"
+        }
+    },
+    {
+        "12345": {
+            "TimeIn": "02:15:03pm",
+            "GuardIn": "12345",
+            "TimeOut": "08:29:15am",
+            "GuardOut": "12345",
+            "Date": "2022-04-02",
+            "type": "Guard"
+        }
+    },
+    {
+        "12345": {
+            "TimeIn": "02:21:47pm",
+            "GuardIn": "12345",
+            "TimeOut": "08:29:15am",
+            "GuardOut": "12345",
+            "Date": "2022-04-02",
+            "type": "Guard"
+        }
+    },
+    {
+        "12345": {
+            "TimeIn": "02:31:10pm",
+            "GuardIn": "12345",
+            "TimeOut": "08:34:41am",
+            "GuardOut": "12345",
+            "Date": "2022-04-02",
+            "type": "Guard"
+        }
+    },
+    {
+        "12345": {
+            "TimeIn": "04:01:58pm",
+            "GuardIn": "12345",
+            "TimeOut": "10:28:47am",
+            "GuardOut": "12345",
+            "Date": "2022-04-02",
+            "type": "Guard"
+        }
+    },
+    {
+        "GT18-01": {
+            "TimeIn": "04:14:12pm",
+            "GuardIn": "12345",
+            "TimeOut": "04:15:24pm",
+            "GuardOut": "12345",
+            "Date": "2022-04-02",
+            "type": "student"
+        }
+    },
+    {
+        "GT18-01": {
+            "TimeIn": "04:15:30pm",
+            "GuardIn": "12345",
+            "TimeOut": "",
+            "GuardOut": "",
+            "Date": "2022-04-02",
+            "type": "student"
+        }
+    },
+    {
+        "12345": {
+            "TimeIn": "04:59:37pm",
+            "GuardIn": "12345",
+            "TimeOut": "",
+            "GuardOut": "",
+            "Date": "2022-04-02",
+            "type": "Guard"
+        }
+    }
+]
